@@ -1,0 +1,1 @@
+title: Goofy No Idle Hitboxdescription: Removes Goofy's hitboxes when idling, walking, running, or jumping.assets:- name: obj\W_EX030.mset  method: copy  source:  - name: W_EX030.mset
